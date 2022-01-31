@@ -1,0 +1,16 @@
+[2022/01/30 22:36:50] - SUCCESS: wp_authenticate action. Empty username provided. Adding set_current_username hook to catch potential login attempt.
+[2022/01/30 22:37:01] - SUCCESS: wp_authenticate action. Handling login for username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:37:01] - SUCCESS: SwpmAuth::login()
+[2022/01/30 22:37:01] - SUCCESS: Authentication request - Username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:37:20] - SUCCESS: wp_authenticate action. Empty username provided. Adding set_current_username hook to catch potential login attempt.
+[2022/01/30 22:37:27] - SUCCESS: wp_authenticate action. Handling login for username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:37:27] - SUCCESS: SwpmAuth::login()
+[2022/01/30 22:37:27] - SUCCESS: Authentication request - Username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:38:27] - SUCCESS: wp_authenticate action. Empty username provided. Adding set_current_username hook to catch potential login attempt.
+[2022/01/30 22:38:54] - SUCCESS: wp_authenticate action. Handling login for username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:38:54] - SUCCESS: SwpmAuth::login()
+[2022/01/30 22:38:54] - SUCCESS: Authentication request - Username: appserver.dev.a856d299-ec51-419d-a242-aaa9e3b7c81c.drush.in
+[2022/01/30 22:39:35] - SUCCESS: wp_authenticate action. Handling login for username: astasene81@gmail.com
+[2022/01/30 22:39:35] - SUCCESS: SwpmAuth::login()
+[2022/01/30 22:39:35] - SUCCESS: Authentication request - Username: astasene81@gmail.com
+[2022/01/30 22:39:35] - SUCCESS: wp_login hook triggered. Username: asta
